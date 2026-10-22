@@ -1,0 +1,8 @@
+{
+  "name": "SAFEALERT",
+  "description": "Personal safety system with real-time BLE monitoring, emergency SOS alerts, Firebase Authentication, and Firestore user profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
